@@ -1,0 +1,11 @@
+	Refrences
+
+https://webcheatsheet.com/php/blocking_system_access.php
+
+https://stackoverflow.com/questions/27226339/php-display-message-at-specific-day-and-time
+
+https://stackoverflow.com/questions/27726156/login-page-to-show-welcome-user-on-index-php
+
+https://stackoverflow.com/questions/15290620/displaying-last-login-time-in-php
+
+https://community.spiceworks.com/topic/499323-is-there-a-way-to-display-last-login-time-to-the-user
